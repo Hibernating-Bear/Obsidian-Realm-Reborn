@@ -1,0 +1,13 @@
+Mods Added
+Nil
+
+
+Mods Removed
+Disabled Applied Energistics 2, and AE2 Stuff on Server due to conflict with server software Sponge
+Will look at adding it in as soon as conflict has been fixed
+
+
+
+Config Changes
+
+IC2 - Disabled Nukes, Scaled Down Reactor Explosions
