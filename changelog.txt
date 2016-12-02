@@ -15,7 +15,6 @@ ImmersiveEngineering
 IronBackpacks
 JustEnoughResources(JER)
 McJtyLip
-Quark
 RailCraft
 Refined Storage
 RFTools
