@@ -1,10 +1,31 @@
 Mods Added
-Nil
+Light Level Overlay Reloaded
 
 
 Mods Removed
 Disabled Applied Energistics 2, and AE2 Stuff on Server due to conflict with server software Sponge
 Will look at adding it in as soon as conflict has been fixed
+
+Mods Updated
+
+Actually Additions
+BloodMagic
+Chisel
+DeepResonance
+Forestry
+ImmersiveEngineering
+IronBackpacks
+JustEnoughResources(JER)
+McJtyLip
+Quark
+RailCraft
+Refined Storage
+RFTools
+RFTools Control
+RFTools Dimensions
+SG Craft
+Storage Drawers
+
 
 
 
