@@ -1,13 +1,11 @@
-Mods Added
+//***Mods Added***\\
 Light Level Overlay Reloaded
 
-
-Mods Removed
+//***Mods Removed***\\
 Disabled Applied Energistics 2, and AE2 Stuff on Server due to conflict with server software Sponge
 Will look at adding it in as soon as conflict has been fixed
 
-Mods Updated
-
+//***Mods Updated***\\
 Actually Additions
 BloodMagic
 Chisel
@@ -27,8 +25,5 @@ SG Craft
 Storage Drawers
 
 
-
-
-Config Changes
-
+//***Config Changes***\\
 IC2 - Disabled Nukes, Scaled Down Reactor Explosions
