@@ -1,3 +1,5 @@
+///********Version 1.0********\\\
+
 //***Mods Added***\\
 Light Level Overlay Reloaded
 
@@ -26,3 +28,30 @@ Storage Drawers
 
 //***Config Changes***\\
 IC2 - Disabled Nukes, Scaled Down Reactor Explosions
+
+
+
+///********Version 1.1********\\\
+
+//***Mods Added***\\
+
+//***Mods Removed***\\
+
+//***Mods Updated***\\
+
+
+//***Config Changes***\\
+
+
+
+
+///********Version 1.2********\\\
+
+//***Mods Added***\\
+
+//***Mods Removed***\\
+
+//***Mods Updated***\\
+
+
+//***Config Changes***\\
