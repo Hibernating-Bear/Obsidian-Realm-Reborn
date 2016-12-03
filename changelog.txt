@@ -34,14 +34,16 @@ IC2 - Disabled Nukes, Scaled Down Reactor Explosions
 ///********Version 1.1********\\\
 
 //***Mods Added***\\
+DeepResonance - Was removed by accident
 
 //***Mods Removed***\\
+Nil
 
 //***Mods Updated***\\
-
+Nil
 
 //***Config Changes***\\
-
+Nil
 
 
 
@@ -55,3 +57,17 @@ IC2 - Disabled Nukes, Scaled Down Reactor Explosions
 
 
 //***Config Changes***\\
+
+
+
+///********Version 1.3********\\\
+
+//***Mods Added***\\
+
+//***Mods Removed***\\
+
+//***Mods Updated***\\
+
+
+//***Config Changes***\\
+
