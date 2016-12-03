@@ -48,6 +48,23 @@ Nil
 
 
 ///********Version 1.2********\\\
+Updated to Forge 2171
+//***Mods Added***\\
+Nil
+
+//***Mods Removed***\\
+Nil
+
+//***Mods Updated***\\
+Quark
+Immersive Engineering
+Extreme Reactors
+
+//***Config Changes***\\
+Nil
+
+
+///********Version 1.3********\\\
 
 //***Mods Added***\\
 
@@ -60,7 +77,8 @@ Nil
 
 
 
-///********Version 1.3********\\\
+
+///********Version 1.4********\\\
 
 //***Mods Added***\\
 
