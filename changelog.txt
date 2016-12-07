@@ -68,6 +68,7 @@ Nil
 
 //***Mods Added***\\
 Akashic Tome
+BetterFPS
 
 //***Mods Removed***\\
 Nil
@@ -82,7 +83,6 @@ Extra Utilities
 McJtyLib
 ModTweaker
 Quark
-RefinedStorage
 RFTools
 RFTools Control
 RFTools Dimensions
