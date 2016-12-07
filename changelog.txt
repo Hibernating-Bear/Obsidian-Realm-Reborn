@@ -69,6 +69,7 @@ Nil
 //***Mods Added***\\
 Akashic Tome
 BetterFPS
+Mouse Tweaks
 
 //***Mods Removed***\\
 Nil
