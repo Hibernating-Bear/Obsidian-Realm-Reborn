@@ -67,14 +67,31 @@ Nil
 ///********Version 1.3********\\\
 
 //***Mods Added***\\
+Akashic Tome
 
 //***Mods Removed***\\
+Nil
 
 //***Mods Updated***\\
+Actually Additions
+Chisel & Bits
+CompactLayer
+Deep Resonance
+ElecCore
+Extra Utilities
+McJtyLib
+ModTweaker
+Quark
+RefinedStorage
+RFTools
+RFTools Control
+RFTools Dimensions
+Roots
+Storage Drawers
 
 
 //***Config Changes***\\
-
+Nil
 
 
 
