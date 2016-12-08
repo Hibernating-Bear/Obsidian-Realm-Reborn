@@ -99,6 +99,27 @@ Added SAG Mill Recipe for Black Quartz
 ///********Version 1.4********\\\
 
 //***Mods Added***\\
+Nil
+
+//***Mods Removed***\\
+Nil
+
+//***Mods Updated***\\
+Baubles
+Blood Magic
+Deep Resonance
+Extreme Reactors
+Mantle
+RFTools Control
+Tinkers Construct
+
+//***Config Changes***\\
+
+
+
+///********Version 1.5********\\\
+
+//***Mods Added***\\
 
 //***Mods Removed***\\
 
@@ -106,4 +127,3 @@ Added SAG Mill Recipe for Black Quartz
 
 
 //***Config Changes***\\
-
