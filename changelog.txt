@@ -124,6 +124,27 @@ Nil
 //***Mods Removed***\\
 
 //***Mods Updated***\\
+Actually Additions
+Compact Layer
+Industrial Craft
+Just Enough Items
+Not Enough Wands
+SG Craft
+
+
+
+//***Config Changes***\\
+
+
+
+
+///********Version 1.6********\\\
+
+//***Mods Added***\\
+
+//***Mods Removed***\\
+
+//***Mods Updated***\\
 
 
 //***Config Changes***\\
