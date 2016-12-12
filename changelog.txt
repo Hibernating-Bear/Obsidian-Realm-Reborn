@@ -130,6 +130,19 @@ Industrial Craft
 Just Enough Items
 Not Enough Wands
 SG Craft
+Better Builder's Wands
+Chameleon
+EnderCore
+Forestry
+Journey Map
+More Bees
+Not Enough Wands
+Quark
+RFTools
+RFTools Control
+RFTools Dimension
+Solar Flux Reborn
+
 
 
 
