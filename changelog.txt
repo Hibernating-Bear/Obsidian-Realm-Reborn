@@ -120,7 +120,7 @@ Nil
 ///********Version 1.5********\\\
 
 //***Mods Added***\\
-
+HammerCore (New Core Mod for Solar Flux Reborn)
 //***Mods Removed***\\
 
 //***Mods Updated***\\
