@@ -158,6 +158,40 @@ Storage Drawers
 //***Mods Removed***\\
 
 //***Mods Updated***\\
+Better Builder's Wands
+Brandon's Core
+CodeChicken Core
+CodeChicken Lib
+Compact Solars
+CompatLayer
+Draconic Evolution
+Ender IO
+Ender Storage
+Extra Utilties
+Forestry
+Iron Backpacks
+Just Enough Items
+Just Enough Resources
+Morpheus
+OpenComputers
+Storage Drawers
+
+
+
+
+
+
+//***Config Changes***\\
+
+
+
+///********Version 1.7********\\\
+
+//***Mods Added***\\
+
+//***Mods Removed***\\
+
+//***Mods Updated***\\
 
 
 //***Config Changes***\\
