@@ -188,6 +188,25 @@ Storage Drawers
 //***Mods Removed***\\
 
 //***Mods Updated***\\
+Gendustry
+Foresty
+Actually Additions
+Better Builder's Wands
+Ender IO
+FTB Utilities
+FTBLib
+RFTools
+
+//***Config Changes***\\
+
+
+///********Version 1.8********\\\
+
+//***Mods Added***\\
+
+//***Mods Removed***\\
+
+//***Mods Updated***\\
 
 
 //***Config Changes***\\
