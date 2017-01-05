@@ -201,6 +201,55 @@ RFTools
 
 
 ///********Version 1.8********\\\
+Updated Forge to Version 2202
+
+//***Mods Added***\\
+
+//***Mods Removed***\\
+
+//***Mods Updated***\\
+Actually Additions
+AE2 Stuff
+Apple Skin
+Applied Energistics 2
+Better Builder's Wand
+Brandon's Core
+Chisels & Bits
+CodeChicken Lib
+Compact Solars
+CompatLayer
+CraftTweaker
+Deep Resonance
+Draconic Evolution
+Ender IO
+Ender Core
+Extra Utilities 2
+Extreme Reactors
+Forestry
+Gravestone Mod
+HammerCore
+Immersive Engineering
+Industrial Craft 2
+Iron Backpacks
+JourneyMap
+Just Enough Items (JEI)
+ModTweaker
+MoreBees
+MTLib
+Not Enough Wands
+Quark
+Refined Storage
+RFTools
+RFTools Dimension
+Shadowfact's Forgelin
+Solar Flux Reborn
+Storage Drawers
+
+//***Config Changes***\\
+
+
+
+///********Version 1.9********\\\
 
 //***Mods Added***\\
 
@@ -210,3 +259,4 @@ RFTools
 
 
 //***Config Changes***\\
+
